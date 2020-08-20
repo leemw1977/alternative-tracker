@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>alternative_tracker_api</RootNamespace>
+    <UserSecretsId>837d519c-ad68-4f06-aced-99c6cf657e55</UserSecretsId>
+  </PropertyGroup>
+</Project>
